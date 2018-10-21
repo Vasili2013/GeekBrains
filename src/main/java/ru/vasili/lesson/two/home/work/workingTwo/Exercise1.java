@@ -17,7 +17,7 @@ public class Exercise1 {
                         bitRan[i] = 0;
                     } else {
                         bitRan[i] = 1;
-
+//куда дели
                     }
                 }
             }
