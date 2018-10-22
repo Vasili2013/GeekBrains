@@ -3,7 +3,7 @@ package ru.vasili.lesson.two.home.work.workingTwo;
 public class Exercise1 {
 
     public static void main(String[] args) {
-        final int[] BitRan = new int[40];
+        final int[] BitRan = new int[41];
         int rang = 2;
 
         int f = (int) (Math.random() * rang);
