@@ -17,7 +17,7 @@ public class Exercise1 {
                         BitRan[i] = 0;
                     } else {
                         BitRan[i] = 1;
-
+//вроде так красиво=)
                     }
                 }
             }
