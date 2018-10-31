@@ -90,14 +90,14 @@ public class Practical0 {
             userShot ( User_Sign, 1 );
             count++;
             if (checkWin ( User_Sign )) {
-                System.out.println ( "Победил первый игрок" );
+                System.out.println ( "Победили крестики игрок" );
                 printField ( );
                 break;
             }
             userShot ( User_Sign_Second, 2 );
             count++;
             if (checkWin ( User_Sign_Second )) {
-                System.out.println ( "Победил вторй игрок" );
+                System.out.println ( "Победили нолики игрок" );
                 printField ( );
                 break;
             }
